@@ -9,7 +9,7 @@ Rails 3.1 asset-pipeline gem to provide underscore.js
 
 In your application.js manifest:
 
-	//= underscore
+	//= require underscore
 
 or directly available under `/assets/underscore.js`
 
