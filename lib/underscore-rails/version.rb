@@ -1,5 +1,5 @@
 module Underscore
   module Rails
-    VERSION = "1.4.2.1"
+    VERSION = "1.4.3"
   end
 end
