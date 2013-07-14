@@ -2,7 +2,7 @@ Rails 3.1 asset-pipeline gem to provide underscore.js
 
 # Install
 
-	gem 'underscore-rails'
+	gem install 'underscore-rails'
 
 
 # Use
