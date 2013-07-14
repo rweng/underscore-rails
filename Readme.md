@@ -1,16 +1,15 @@
 Rails 3.1 asset-pipeline gem to provide underscore.js
 
-# Install
+# Setup
+
+Have in your Gemfile:
 
 	gem 'underscore-rails'
 
-
-# Use
-
-In your application.js manifest:
+And, have in your application.js manifest:
 
 	//= require underscore
 
-or directly available under `/assets/underscore.js`
+(also directly available under `/assets/underscore.js`)
 
 Easy as pie.
