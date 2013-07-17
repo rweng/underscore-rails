@@ -9,6 +9,7 @@ Gem::Specification.new do |s|
   s.email       = ["robin@wenglewski.de"]
   s.homepage    = "https://github.com/rweng/underscore-rails"
   s.summary     = %q{underscore.js asset pipeline provider/wrapper}
+  s.license     = "MIT"
 	
   s.rubyforge_project = "underscore-rails"
 
