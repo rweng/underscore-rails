@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/rweng/underscore-rails"
   s.summary     = %q{underscore.js asset pipeline provider/wrapper}
   s.license     = "MIT"
-	
+
   s.rubyforge_project = "underscore-rails"
 
   s.files         = `git ls-files`.split("\n")
